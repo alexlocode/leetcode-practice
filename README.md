@@ -3,3 +3,5 @@
 用途在於紀錄自己的學習歷程！
 
 [1267. Count Servers that Communicate](https://github.com/alexlocode/leetcode-practice/issues/1)
+
+[3151. Special Array I](https://github.com/alexlocode/leetcode-practice/issues/2)
