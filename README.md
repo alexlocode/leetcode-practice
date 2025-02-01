@@ -2,6 +2,9 @@
 不定時腦力激盪，增加思考能力
 用途在於紀錄自己的學習歷程！
 
+![Easy](https://img.shields.io/github/issues/alexlocode/leetcode-practice/Easy)
+![Medium](https://img.shields.io/github/issues/alexlocode/leetcode-practice/Medium)
+
 [1267. Count Servers that Communicate](https://github.com/alexlocode/leetcode-practice/issues/1)
 
 [3151. Special Array I](https://github.com/alexlocode/leetcode-practice/issues/2)
