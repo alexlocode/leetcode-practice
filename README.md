@@ -8,3 +8,7 @@
 [1267. Count Servers that Communicate](https://github.com/alexlocode/leetcode-practice/issues/1)
 
 [3151. Special Array I](https://github.com/alexlocode/leetcode-practice/issues/2)
+
+[1752. Check if Array Is Sorted and Rotated](https://github.com/alexlocode/leetcode-practice/issues/3)
+
+[3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/alexlocode/leetcode-practice/issues/4)
