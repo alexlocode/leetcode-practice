@@ -12,3 +12,5 @@
 [1752. Check if Array Is Sorted and Rotated](https://github.com/alexlocode/leetcode-practice/issues/3)
 
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/alexlocode/leetcode-practice/issues/4)
+
+[1800. Maximum Ascending Subarray Sum](https://github.com/alexlocode/leetcode-practice/issues/5)
