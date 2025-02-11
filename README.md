@@ -1,6 +1,12 @@
 # leetcode 腦力激盪(不用很厲害才開始，但要開始才會厲害)
-不定時腦力激盪，增加思考能力
-用途在於紀錄自己的學習歷程！
+
+<p>不定時腦力激盪，增加思考能力</p>
+
+<p>用途在於紀錄自己的學習歷程！</p>
+
+<p>主要解daily question</p>
+
+
 
 ![Easy](https://img.shields.io/github/issues/alexlocode/leetcode-practice/Easy)
 ![Medium](https://img.shields.io/github/issues/alexlocode/leetcode-practice/Medium)
