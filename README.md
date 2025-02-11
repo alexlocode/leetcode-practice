@@ -14,3 +14,7 @@
 4. [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/alexlocode/leetcode-practice/issues/4)
 
 5. [1800. Maximum Ascending Subarray Sum](https://github.com/alexlocode/leetcode-practice/issues/5)
+
+6. [1790. Check if One String Swap Can Make Strings Equal](https://github.com/alexlocode/leetcode-practice/issues/6)
+
+7. [1910. Remove All Occurrences of a Substring](https://github.com/alexlocode/leetcode-practice/issues/7)
