@@ -24,3 +24,5 @@
 6. [1790. Check if One String Swap Can Make Strings Equal](https://github.com/alexlocode/leetcode-practice/issues/6)
 
 7. [1910. Remove All Occurrences of a Substring](https://github.com/alexlocode/leetcode-practice/issues/7)
+
+8. [2342. Max Sum of a Pair With Equal Sum of Digits](https://github.com/alexlocode/leetcode-practice/issues/8)
